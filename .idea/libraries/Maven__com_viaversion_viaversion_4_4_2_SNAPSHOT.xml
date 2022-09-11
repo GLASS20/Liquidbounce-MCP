@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.viaversion:viaversion:4.4.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/viaversion/viaversion/4.4.2-SNAPSHOT/viaversion-4.4.2-20220819.100010-17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/viaversion/viaversion/4.4.2-SNAPSHOT/viaversion-4.4.2-20220819.100010-17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/viaversion/viaversion/4.4.2-SNAPSHOT/viaversion-4.4.2-20220819.100010-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
